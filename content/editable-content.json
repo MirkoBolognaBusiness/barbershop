@@ -38,7 +38,8 @@
     "services.0.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
     "services.1.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
     "services.2.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
-    "services.3.description": "lorem ipsum ipsum lorem ipsum lorem lorem"
+    "services.3.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
+    "services.1.name": "Barba"
   },
   "gallery": {
     "title": "La Nostra Galleria",
