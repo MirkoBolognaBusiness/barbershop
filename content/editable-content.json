@@ -34,7 +34,8 @@
         "price": "€25"
       }
     ],
-    "services.0.name": "Rito della Barba"
+    "services.0.name": "Rito della Barba",
+    "services.0.description": "lorem ipsum ipsum lorem ipsum lorem lorem"
   },
   "gallery": {
     "title": "La Nostra Galleria",
