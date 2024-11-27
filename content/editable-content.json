@@ -40,7 +40,8 @@
     "services.2.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
     "services.3.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
     "services.1.name": "Barba",
-    "services.2.name": "Capello"
+    "services.2.name": "Capello",
+    "services.3.name": "Barba e capello"
   },
   "gallery": {
     "title": "La Nostra Galleria",
