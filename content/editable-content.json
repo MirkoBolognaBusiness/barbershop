@@ -33,7 +33,8 @@
         "description": "Ritocchi veloci utilizzando i nostri sistemi di grooming automatizzati",
         "price": "€25"
       }
-    ]
+    ],
+    "services.0.name": "Precision Haircut"
   },
   "gallery": {
     "title": "La Nostra Galleria",
