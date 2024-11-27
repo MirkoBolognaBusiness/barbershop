@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "title": "hhh",
+    "subtitle": "Grooming d'Eccellenza",
+    "description": "Esperienza tagli di precisione e servizi di grooming premium nel nostro salone all'avanguardia. Dove stile incontra tecnologia.",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&q=80"
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "Sperimenta la perfetta fusione tra maestria tradizionale e tecnologia all'avanguardia",
+    "services": [
+      {
+        "icon": "Scissors",
+        "name": "Taglio di Precisione",
+        "description": "Tagli di precisione assistiti dall'AI, personalizzati per la forma del tuo viso e le tue preferenze di stile",
+        "price": "€45"
+      },
+      {
+        "icon": "Ruler",
+        "name": "Scultura della Barba",
+        "description": "Grooming avanzato della barba con rifinitura e styling guidati al laser",
+        "price": "€35"
+      },
+      {
+        "icon": "Droplets",
+        "name": "Trattamento Nano",
+        "description": "Trattamento rivoluzionario per capelli con prodotti a infusione nano-tech",
+        "price": "€65"
+      },
+      {
+        "icon": "Clock",
+        "name": "Servizio Express",
+        "description": "Ritocchi veloci utilizzando i nostri sistemi di grooming automatizzati",
+        "price": "€25"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "La Nostra Galleria",
+    "subtitle": "Vetrina dei nostri migliori lavori e attenzione ai dettagli",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&q=80",
+        "title": "Tagli Moderni"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&q=80",
+        "title": "Styling di Precisione"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1622296089780-160f6ac7d003?auto=format&fit=crop&q=80",
+        "title": "Grooming Esperto"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593702295094-ac9a661c3d53?auto=format&fit=crop&q=80",
+        "title": "Cura Premium"
+      }
+    ]
+  },
+  "team": {
+    "title": "Il Nostro Team",
+    "subtitle": "Stilisti esperti che combinano arte e tecnologia",
+    "members": [
+      {
+        "name": "Alessandro Rivera",
+        "role": "Master Stylist",
+        "image": "https://images.unsplash.com/photo-1570158268183-d296b2892211?auto=format&fit=crop&q=80",
+        "social": {
+          "instagram": "#",
+          "twitter": "#",
+          "linkedin": "#"
+        }
+      },
+      {
+        "name": "Sara Chen",
+        "role": "Specialista Colore",
+        "image": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&q=80",
+        "social": {
+          "instagram": "#",
+          "twitter": "#",
+          "linkedin": "#"
+        }
+      },
+      {
+        "name": "Marco Rossi",
+        "role": "Esperto Barba",
+        "image": "https://images.unsplash.com/photo-1583195764036-6dc248ac07d9?auto=format&fit=crop&q=80",
+        "social": {
+          "instagram": "#",
+          "twitter": "#",
+          "linkedin": "#"
+        }
+      }
+    ]
+  }
+}
