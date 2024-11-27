@@ -35,7 +35,8 @@
       }
     ],
     "services.0.name": "Rito della Barba",
-    "services.0.description": "lorem ipsum ipsum lorem ipsum lorem lorem"
+    "services.0.description": "lorem ipsum ipsum lorem ipsum lorem lorem",
+    "services.1.description": "lorem ipsum ipsum lorem ipsum lorem lorem"
   },
   "gallery": {
     "title": "La Nostra Galleria",
